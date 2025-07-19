@@ -34,7 +34,7 @@ const soham = {
 
 ## 💼 Professional Experience
 
-### 🏢 **Commonwealth** | *Software Developer Intern*
+### 🏢 **Commonwealth** 
 **Jan 2025 - May 2025**
 - 🔍 Built secure **PDF query tool** using **RAG with FAISS and Ollama**
 - ⚡ Implemented real-time **semantic search** for manifestation PDFs  
