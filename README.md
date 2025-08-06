@@ -116,16 +116,6 @@ const soham = {
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<!-- Primary streak service -->
-<img src="https://streak-stats.demolab.com/?user=bagalsoham&theme=tokyonight&hide_border=true" width="90%" />
-
-<!-- Backup streak service (uncomment if primary doesn't work) -->
-<!-- <img src="https://github-readme-streak-stats.vercel.app/?user=bagalsoham&theme=tokyonight&hide_border=true" width="90%" /> -->
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
